@@ -2,7 +2,7 @@
 
 ## Description
 
-Bible Chat App is an AI-powered chatbot designed to help users explore, understand, and interact with the Bible in a conversational format. Whether you are seeking inspiration, studying scripture, or just curious, the app provides scripture-based responses in real-time using natural language processing. This tool is ideal for daily devotionals, group discussions, and educational use. The interface is intuitive, responsive, and user-friendly — designed to engage users from all backgrounds.
+<a href="https://www.reddit.com/r/BibleChatAiApp/">Bible Chat App</a> is an AI-powered chatbot designed to help users explore, understand, and interact with the Bible in a conversational format. Whether you are seeking inspiration, studying scripture, or just curious, the app provides scripture-based responses in real-time using natural language processing. This tool is ideal for daily devotionals, group discussions, and educational use. The interface is intuitive, responsive, and user-friendly — designed to engage users from all backgrounds.
 
 Built with React, the app is optimized for performance and scalability. Features like AI-based search, verse explanation, and chat history help personalize the Bible reading experience. Bible Chat App bridges the gap between traditional scripture reading and modern conversational AI.
 
